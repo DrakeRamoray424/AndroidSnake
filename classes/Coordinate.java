@@ -1,8 +1,5 @@
 package com.example.nnelanut.snakeapplication.classes;
 
-/**
- * Created by 123 on 12/8/2017.
- */
 
 public class Coordinate {
     private int x;
